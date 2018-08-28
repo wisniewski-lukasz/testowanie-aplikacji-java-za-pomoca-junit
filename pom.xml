@@ -12,6 +12,7 @@
         <module>3_Imitacje</module>
         <module>4_Imitacje</module>
         <module>5_TDD</module>
+        <module>6_Imitowanie_DB</module>
     </modules>
 
 </project>
